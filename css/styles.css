@@ -98,6 +98,15 @@ header nav a.active {
     font-size: 1.12em;
 }
 
+.main-movie .button a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.main-movie .button a:hover {
+    color: #000;
+}
+
 .main-movie .button:hover {
     background: #FFF;
     color: #000;
